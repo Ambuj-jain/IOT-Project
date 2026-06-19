@@ -49,7 +49,7 @@ https://drive.google.com/file/d/1v6UL0TgIsIfl-2YzzciuRvHI1MdsJwC1/view
 
 ---
 
-# 🔊 Project 2 - Button Sound Controller
+# 🔊 Project 2 - Button Sound Controller (Happy Birthday to You)
 
 ## Description
 
@@ -112,7 +112,7 @@ https://drive.google.com/file/d/11CaGcAXAdQRSqWWRb5e_BCy3fOK8Tk7t/view
 
 ---
 
-# 📡 Project 4 - Advanced Radar System with Ultrasonic Sensor
+# 📡 Project 4 - Smart Dustbin/Box With Servo Motor & Ultrasonic Sensor
 
 ## Description
 
@@ -143,7 +143,7 @@ Enhanced version of the radar system demonstrating improved object detection and
 
 🔗 Google Drive Demo
 
-https://drive.google.com/file/d/1SS3KjsH4Tak8-vx4IYIxv0tLhFQApuhL/view
+https://drive.google.com/file/d/1SS3KjsH4Tak8-vx4IYIxv0tLhFQApuhL/view?usp=drive_link
 
 ---
 
